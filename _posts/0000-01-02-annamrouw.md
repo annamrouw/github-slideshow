@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+What's a pirate's programming language? R!
 Use the left arrow to go back!
